@@ -1,0 +1,4 @@
+app_identifier("com.gitlab.flutter-demo") # The bundle identifier of your app
+apple_id("dfrey@gitlab.com")              # Your Apple Developer Portal username
+itc_team_id("123461791")                  # App Store Connect Team ID
+team_id("N7SYAN8PX8")                     # Developer Portal Team ID

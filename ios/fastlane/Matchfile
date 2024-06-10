@@ -1,0 +1,5 @@
+gitlab_project("gitlab-org/incubation-engineering/mobile-devops/demo-projects/flutter-demo")
+
+storage_mode("gitlab_secure_files")
+
+type("development") # The default type, can be: appstore, adhoc, enterprise or development
